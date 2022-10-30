@@ -31,7 +31,7 @@ public class Latihan2 {
     }catch (IOException e){
         System.out.println("Error!");
     }
-        System.out.println("Penjumlahan: "+angka1+"+"+angka2+":"+jumlah);
+        System.err.println("Penjumlahan: "+angka1+"+"+angka2+":"+jumlah);
         System.out.println("Hasil : "+jumlah);
     }
 }
