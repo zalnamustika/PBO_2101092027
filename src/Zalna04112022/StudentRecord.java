@@ -80,4 +80,4 @@ public class StudentRecord {
         max = (int) (( scienceGrade>=max)? scienceGrade:max);
         return max;
     }
-}
+} 
